@@ -1009,6 +1009,7 @@ ol {
 	position: relative;
 	overflow: hidden;
 	margin-bottom: 30px;
+	border-radius: 10px;
 }
 
 .single-price-plan h4 {
@@ -1057,7 +1058,7 @@ ol {
 .single-price-plan ul li {
 	list-style: none;
 	font-size: 16px;
-	font-weight: 600;
+	font-weight: 350;
 	color: #272727;
 	line-height: 42px;
 }
