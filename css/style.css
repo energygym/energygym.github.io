@@ -1026,7 +1026,7 @@ ol {
 .single-price-plan .price-plan h2 {
 	color: #272727;
 	opacity: 0.8;
-	font-size: 48px;
+	font-size: 38px;
 	font-weight: 700;
 	position: relative;
 	padding-left: 18px;
@@ -1040,7 +1040,7 @@ ol {
 	font-weight: 700;
 	position: absolute;
 	left: 0;
-	top: 9px;
+	top: 20px;
 }
 
 .single-price-plan .price-plan p {
