@@ -869,8 +869,6 @@ ol {
 	width: 146px;
 	max-width: 200px;
 	min-width: 146px;
-	height: 100px;
-	min-height: 100px;
 	padding: 26px 10px 28px;
 	position: relative;
 	z-index: 1;
@@ -905,12 +903,11 @@ ol {
 	position: -webkit-sticky;
 	position: sticky;
 	z-index: 2;
-	left: 0px;
+	left: -1px;
 	background-color: #212121;
 	width: 70px;
   	min-width: 70px;
   	max-width: 70px;
-	/* border-right: 10px solid #1f1f1f; */
 
 	font-size: 16px;
 	color: #ffffff;
