@@ -1878,6 +1878,8 @@ ol {
 
 .trainer-item .ti-pic img {
 	min-width: 100%;
+	object-fit: cover;
+	height: 400px;
 }
 
 .trainer-item .ti-pic .ti-links {
@@ -3026,6 +3028,12 @@ ol {
 	}
 	.map-contact-detalis {
 		right: 30px;
+	}
+
+	.trainer-item .ti-pic img {
+		min-width: 100%;
+		object-fit: cover;
+		height: 500px;
 	}
 }
 
