@@ -916,7 +916,7 @@ ol {
 }
 
 .classtime-table table tbody tr td span {
-	font-size: 16px;
+	font-size: 14px;
 	color: #ffffff;
 	display: block;
 	margin-bottom: 7px;
@@ -929,6 +929,7 @@ ol {
 	-webkit-transition: all 0.3s;
 	-o-transition: all 0.3s;
 	transition: all 0.3s;
+	font-size: 14px;
 }
 
 /*---------------------
